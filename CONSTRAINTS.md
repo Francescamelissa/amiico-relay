@@ -35,7 +35,16 @@ report:
 > closed — or once it is established that describing it cannot help anyone
 > reach it.
 
-If a report cannot be written without breaking that, **the report waits.**
+If a report cannot be written without breaking that, **the report waits — and
+the wait is announced.**
+
+> **When a report cannot be written without breaching this, say so here:
+> "an item is being handled privately."**
+
+**A gap with no marker looks like nothing happened.** Silence and absence are
+indistinguishable from outside, so an unexplained quiet period reads as no work
+rather than as withheld work — which is the same defect this repository exists
+to remove, arriving as a hole instead of a claim.
 
 ## Why the separation is worth the friction
 
