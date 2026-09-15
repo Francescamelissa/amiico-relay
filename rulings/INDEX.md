@@ -38,3 +38,7 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 043 | 2026-09-15 | Ruling 043 — verify against main, not against the pull request — the squashed tree is what ships; nothing stac |
 | 044 | 2026-09-15 | Ruling 044 — the partition's first row and the window's boundary; the self-retiring arm is testable both ways; |
 | 045 | 2026-09-15 | Ruling 045 — a fourth residual — emergency_contacts, a named third party keyed to the account holder; sweep ev |
+| 046 | 2026-09-15 | Ruling 046 — the summary PDF verified against a populated trip; two defects (a city printed twice, a date rang |
+| 047 | 2026-09-15 | Ruling 047 — what home_currency actually holds — fix the meaning before conversion depends on it; the conversi |
+| 048 | 2026-09-15 | Ruling 048 — the helper: failure with effect is the worse defect — stage to a temporary file and rename; asser |
+| 049 | 2026-09-15 | Ruling 049 — the runbook: pause points, not just a point of no return; the procedure ends when the requester i |
