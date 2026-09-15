@@ -22,3 +22,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 027 | GAP | Ruling 27 |
 | 028 | 2026-09-14 | Ruling 28 |
 | 029 | 2026-09-15 | Ruling 029 — nine sections: numbering, entity_id, the catalog FK map, the empty before-state, the three residu |
+| 030 | 2026-09-15 | Ruling 030 — the PRs cleared or held, the pipeline-status trap as a mechanism, the fixture addition |
