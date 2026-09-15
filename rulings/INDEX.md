@@ -34,3 +34,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 039 | 2026-09-15 | Ruling 039 — prove the write helper refuses before trusting it with the records; queue rows carry raised-by, c |
 | 040 | 2026-09-15 | Ruling 040 — the taint is a window, not a command — enumerate every reading inside it; the empty-corpus check; |
 | 041 | 2026-09-15 | Ruling 041 — "derive it from the file" has two meanings and only one is a test; the hand-typed constant was th |
+| 042 | 2026-09-15 | Ruling 042 — the reset recorded as the CTO's design (a scratch branch is not a scratch tree); two explanations |
