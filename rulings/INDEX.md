@@ -35,3 +35,6 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 040 | 2026-09-15 | Ruling 040 — the taint is a window, not a command — enumerate every reading inside it; the empty-corpus check; |
 | 041 | 2026-09-15 | Ruling 041 — "derive it from the file" has two meanings and only one is a test; the hand-typed constant was th |
 | 042 | 2026-09-15 | Ruling 042 — the reset recorded as the CTO's design (a scratch branch is not a scratch tree); two explanations |
+| 043 | 2026-09-15 | Ruling 043 — verify against main, not against the pull request — the squashed tree is what ships; nothing stac |
+| 044 | 2026-09-15 | Ruling 044 — the partition's first row and the window's boundary; the self-retiring arm is testable both ways; |
+| 045 | 2026-09-15 | Ruling 045 — a fourth residual — emergency_contacts, a named third party keyed to the account holder; sweep ev |
