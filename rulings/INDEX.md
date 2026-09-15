@@ -42,3 +42,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 047 | 2026-09-15 | Ruling 047 — what home_currency actually holds — fix the meaning before conversion depends on it; the conversi |
 | 048 | 2026-09-15 | Ruling 048 — the helper: failure with effect is the worse defect — stage to a temporary file and rename; asser |
 | 049 | 2026-09-15 | Ruling 049 — the runbook: pause points, not just a point of no return; the procedure ends when the requester i |
+| 050 | 2026-09-15 | Ruling 050 — the reply's voice and content; what remains is said plainly; a confirmation written before the ve |
