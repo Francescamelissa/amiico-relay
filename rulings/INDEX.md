@@ -43,3 +43,5 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 048 | 2026-09-15 | Ruling 048 — the helper: failure with effect is the worse defect — stage to a temporary file and rename; asser |
 | 049 | 2026-09-15 | Ruling 049 — the runbook: pause points, not just a point of no return; the procedure ends when the requester i |
 | 050 | 2026-09-15 | Ruling 050 — the reply's voice and content; what remains is said plainly; a confirmation written before the ve |
+| 051 | 2026-09-15 | Ruling 051 — overnight, unattended — standing rules while nobody is watching; the order of work, ten items top |
+| 052 | 2026-09-16 | Ruling 052 — the fixture's red: the restrict is a load-bearing interlock — assert every FK delete action; a fa |
