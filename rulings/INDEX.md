@@ -51,3 +51,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 056 | 2026-09-19 | Ruling 056 — the column drop asserts its own precondition; the home currency now exists nowhere, written down; |
 | 057 | 2026-09-19 | Ruling 057 — main and production have visibly diverged, and nothing measures it: build the reading; the drop g |
 | 058 | 2026-09-19 | Ruling 058 — hold #270 with an expiry, not a mood (merges in the same sitting as the first reading; expires 26 |
+| 059 | 2026-09-19 | Ruling 059 — merge #270 now: the hold rested on a fact that turned out to be false; the worktree add that fail |
