@@ -48,3 +48,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 053 | 2026-09-16 | Ruling 053 — prove a constraint by exercising it, not by removing it; the gate's red from a fabricated reading |
 | 054 | 2026-09-16 | Ruling 054 — #250 and #251: the hold lifts on three conditions; the ledger says what the clearance covers; the |
 | 055 | 2026-09-16 | Ruling 055 — a red-lane migration must be findable as one — scope that grows after clearance is said plainly;  |
+| 056 | 2026-09-19 | Ruling 056 — the column drop asserts its own precondition; the home currency now exists nowhere, written down; |
