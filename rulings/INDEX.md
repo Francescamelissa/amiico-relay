@@ -58,3 +58,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 063 | 2026-09-21 | Ruling 063 — the record matters more than the credit: the CTO cleared red-lane migrations without establishing |
 | 064 | 2026-09-21 | Ruling 064 — the day list: standing rules (no migration merges; park decisions), eleven items in order, what i |
 | 065 | 2026-09-21 | Ruling 065 — the hold lifts; remove the CLI link; build 19 authorised; the third client of a rename is the byt |
+| 066 | 2026-09-21 | Ruling 066 — the merges cleared in order (#280 stays open); row 54 closes with its reasons; row 61: make the c |
