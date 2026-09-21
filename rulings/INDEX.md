@@ -55,3 +55,6 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 060 | 2026-09-20 | Ruling 060 — row 40: the composite becomes a gate — 0, 1, and a distinct code for "could not run", the count i |
 | 061 | 2026-09-20 | Ruling 061 — the live reading contradicts what the builder reported twice — both migrations appear in producti |
 | 062 | 2026-09-20 | Ruling 062 — confirmed: it ran; build 18 writes a column that no longer exists (P0); a rename is two deploymen |
+| 063 | 2026-09-21 | Ruling 063 — the record matters more than the credit: the CTO cleared red-lane migrations without establishing |
+| 064 | 2026-09-21 | Ruling 064 — the day list: standing rules (no migration merges; park decisions), eleven items in order, what i |
+| 065 | 2026-09-21 | Ruling 065 — the hold lifts; remove the CLI link; build 19 authorised; the third client of a rename is the byt |
