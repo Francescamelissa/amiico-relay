@@ -59,3 +59,7 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 064 | 2026-09-21 | Ruling 064 — the day list: standing rules (no migration merges; park decisions), eleven items in order, what i |
 | 065 | 2026-09-21 | Ruling 065 — the hold lifts; remove the CLI link; build 19 authorised; the third client of a rename is the byt |
 | 066 | 2026-09-21 | Ruling 066 — the merges cleared in order (#280 stays open); row 54 closes with its reasons; row 61: make the c |
+| 067 | 2026-09-21 | Ruling 067 — delete the keep-alive, secret and workflow both; the audit's own lesson pointed at the audit; eig |
+| 068 | 2026-09-21 | Ruling 068 — a hand-resolved conflict verifies preservation, not correctness: the union of both parents' entri |
+| 069 | 2026-09-21 | Ruling 069 — delete the secret, not just the workflow, and read the list back; the unattended-failure question |
+| 070 | 2026-09-15 | Ruling 070 — the overnight brief: no cut, the sighting keeps its shape, the merge queue with the union check,  |
