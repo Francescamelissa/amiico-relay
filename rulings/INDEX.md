@@ -62,4 +62,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 067 | 2026-09-21 | Ruling 067 — delete the keep-alive, secret and workflow both; the audit's own lesson pointed at the audit; eig |
 | 068 | 2026-09-21 | Ruling 068 — a hand-resolved conflict verifies preservation, not correctness: the union of both parents' entri |
 | 069 | 2026-09-21 | Ruling 069 — delete the secret, not just the workflow, and read the list back; the unattended-failure question |
-| 070 | 2026-09-15 | Ruling 070 — the overnight brief: no cut, the sighting keeps its shape, the merge queue with the union check,  |
+| 070 | 2026-09-21 | Ruling 070 — the overnight brief: no cut, the sighting keeps its shape, the merge queue with the union check,  |
