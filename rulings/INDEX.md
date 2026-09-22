@@ -64,3 +64,5 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 069 | 2026-09-21 | Ruling 069 — delete the secret, not just the workflow, and read the list back; the unattended-failure question |
 | 070 | 2026-09-21 | Ruling 070 — the overnight brief: no cut, the sighting keeps its shape, the merge queue with the union check,  |
 | 071 | 2026-09-22 | Ruling 071 — #286 cleared on a money condition (independent rounding pinned; nothing sums or stores a converte |
+| 072 | 2026-09-22 | Ruling 072 — her inbox confirmed the alarm's email (21:37 BST, 21 September); row 24 established end to end, w |
+| 073 | 2026-09-22 | Ruling 073 — the cleanup ruling withdrawn: the line was never stripped; a tool's rendering of an artefact is n |
