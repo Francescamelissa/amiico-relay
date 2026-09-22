@@ -72,3 +72,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 077 | 2026-09-22 | Ruling 077 — a self-reported count catches truncation, not misdefinition: pin the query text; a zero count is  |
 | 078 | 2026-09-22 | Ruling 078 — the rehearsal found exact_match = 0: identity resolution is a gate before everything; similar_loo |
 | 079 | 2026-09-22 | Ruling 079 — the requester asked on 22 September; the ICO's position: the month runs from receipt of the ident |
+| 080 | 2026-09-22 | Ruling 080 — three corrections accepted (one the CTO's); row 72's artefact verbatim, grouped with its counts;  |
