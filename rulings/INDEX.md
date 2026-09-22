@@ -66,3 +66,9 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 071 | 2026-09-22 | Ruling 071 — #286 cleared on a money condition (independent rounding pinned; nothing sums or stores a converte |
 | 072 | 2026-09-22 | Ruling 072 — her inbox confirmed the alarm's email (21:37 BST, 21 September); row 24 established end to end, w |
 | 073 | 2026-09-22 | Ruling 073 — the cleanup ruling withdrawn: the line was never stripped; a tool's rendering of an artefact is n |
+| 074 | 2026-09-22 | Ruling 074 — the export was the editor's 100-row display: a reading carries its own denominator, the gates ass |
+| 075 | 2026-09-22 | Ruling 075 — the reading complete and self-verified (227 columns, 44 migrations); expenses.converted_amount an |
+| 076 | 2026-09-22 | Ruling 076 — an argument that rests on an absence must pin the absence; the sweep; the clearance gate's first  |
+| 077 | 2026-09-22 | Ruling 077 — a self-reported count catches truncation, not misdefinition: pin the query text; a zero count is  |
+| 078 | 2026-09-22 | Ruling 078 — the rehearsal found exact_match = 0: identity resolution is a gate before everything; similar_loo |
+| 079 | 2026-09-22 | Ruling 079 — the requester asked on 22 September; the ICO's position: the month runs from receipt of the ident |
