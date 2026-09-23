@@ -74,3 +74,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 079 | 2026-09-22 | Ruling 079 — the requester asked on 22 September; the ICO's position: the month runs from receipt of the ident |
 | 080 | 2026-09-22 | Ruling 080 — three corrections accepted (one the CTO's); row 72's artefact verbatim, grouped with its counts;  |
 | 081 | 2026-09-22 | Ruling 081 — the overnight brief of 22 September: the row-count reading (29/29, names and integers only); the  |
+| 082 | 2026-09-23 | Ruling 082 — the query text supplied and attested; the sentinel finding accepted and the reviewer's pattern na |
