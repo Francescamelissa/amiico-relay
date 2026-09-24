@@ -79,3 +79,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 084 | 2026-09-24 | Ruling 084 — the new CTO session; reports go direct, not through Francesca; finish the current part; two questio |
 | 085 | 2026-09-24 | Ruling 085 — the plan of record published; a process freeze on new gates, registers and tooling; NOT-FOR-RELAY  |
 | 086 | 2026-09-24 | Ruling 086 — #312 cleared (build 19's route); #309 cleared on five conditions; #313 a signpost; the Phase 0 order |
+| 087 | 2026-09-24 | Ruling 087 — the keying chain before B1–B5; builds 20 and 21; the merge route closed (merge-one.sh); B3 revised; the crypto li |
