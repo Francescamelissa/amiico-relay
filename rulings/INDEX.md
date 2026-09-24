@@ -76,3 +76,6 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 081 | 2026-09-22 | Ruling 081 — the overnight brief of 22 September: the row-count reading (29/29, names and integers only); the  |
 | 082 | 2026-09-23 | Ruling 082 — the query text supplied and attested; the sentinel finding accepted and the reviewer's pattern na |
 | 083 | 2026-09-24 | Ruling 083 — interjection: the RLS reading query grouped, one row per table; the brief archive's persistence |
+| 084 | 2026-09-24 | Ruling 084 — the new CTO session; reports go direct, not through Francesca; finish the current part; two questio |
+| 085 | 2026-09-24 | Ruling 085 — the plan of record published; a process freeze on new gates, registers and tooling; NOT-FOR-RELAY  |
+| 086 | 2026-09-24 | Ruling 086 — #312 cleared (build 19's route); #309 cleared on five conditions; #313 a signpost; the Phase 0 order |
