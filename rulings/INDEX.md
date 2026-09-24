@@ -82,3 +82,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 087 | 2026-09-24 | Ruling 087 — the keying chain before B1–B5; builds 20 and 21; the merge route closed (merge-one.sh); B3 revised; the crypto li |
 | 088 | 2026-09-24 | Ruling 088 — #315 cleared (the IPA expectation, 1·0·0·1); build 19 submits once; driving her consoles: the account owed, t |
 | 089 | 2026-09-24 | Ruling 089 — the 088 §3 account accepted as clean; no breach-log entry; the merge not hand-run: the line in the PR body, merg |
+| 090 | 2026-09-24 | Ruling 090 — build 19's notes, final text: the DRAFT header deleted, "load" not "create", check 2 tests the server read; paste |
