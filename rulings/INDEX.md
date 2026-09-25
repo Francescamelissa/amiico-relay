@@ -87,3 +87,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 092 | 2026-09-25 | Ruling 092 — build 19's notes pasted by Francesca (2026-09-25, 3,253 chars, sha 4d5467b5); cut steps 7–8; requests for her go |
 | 093 | 2026-09-25 | Ruling 093 — #318's erasure half cleared on three conditions; the CI Supabase CLI stays on `latest` as the auth-drift sensor;  |
 | 094 | 2026-09-25 | Ruling 094 — #310 read and cleared; its ENGINEERING lines predate the freeze; a merge order is not a review: each PR waits f |
+| 095 | 2026-09-25 | Ruling 095 — #319 (F1) read and cleared; #309 gains (f), a v2 read replacing readBudgetState; `you` joins the next read-gua |
