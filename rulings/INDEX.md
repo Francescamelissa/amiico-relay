@@ -89,3 +89,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 094 | 2026-09-25 | Ruling 094 — #310 read and cleared; its ENGINEERING lines predate the freeze; a merge order is not a review: each PR waits f |
 | 095 | 2026-09-25 | Ruling 095 — #319 (F1) read and cleared; #309 gains (f), a v2 read replacing readBudgetState; `you` joins the next read-gua |
 | 096 | 2026-09-25 | Ruling 096 — #300's re-carried head d2f036f cleared (the compare set equals main's 37 files); re-carry #302 next |
+| 097 | 2026-09-25 | Ruling 097 — #302's re-carried head a6ee3d9 cleared (compare set 66 = 66); #309 needs the re-carried head read AND the pa |
