@@ -85,3 +85,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 090 | 2026-09-24 | Ruling 090 — build 19's notes, final text: the DRAFT header deleted, "load" not "create", check 2 tests the server read; paste |
 | 091 | 2026-09-24 | Ruling 091 — build 19's notes pasted as merged; from build 20 the pasted span is plain text, one paragraph per line; check 3 |
 | 092 | 2026-09-25 | Ruling 092 — build 19's notes pasted by Francesca (2026-09-25, 3,253 chars, sha 4d5467b5); cut steps 7–8; requests for her go |
+| 093 | 2026-09-25 | Ruling 093 — #318's erasure half cleared on three conditions; the CI Supabase CLI stays on `latest` as the auth-drift sensor;  |
