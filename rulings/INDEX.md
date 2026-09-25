@@ -94,3 +94,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 099 | 2026-09-25 | Ruling 099 — `you`'s nested records (privacy, consent, notifications) join the read-guard PR, falling back to private defa |
 | 100 | 2026-09-25 | Ruling 100 — a corrupt `notifications` reads as all-false; first-run defaults unchanged; repair values named YOU_READ_FALLB |
 | 101 | 2026-09-25 | Ruling 101 — #320 (the wallet, itinerary and `you` boot reads) cleared at 3686294; nested-record completeness is a Phase |
+| 102 | 2026-09-25 | Ruling 102 — #311 cleared at f879bac (re-carried; the guard the only test that notices a downgrade); the notes gate take |
