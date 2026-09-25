@@ -97,3 +97,4 @@ Generated from the files in this directory; the files are the fact. A hole in th
 | 102 | 2026-09-25 | Ruling 102 — #311 cleared at f879bac (re-carried; the guard the only test that notices a downgrade); the notes gate take |
 | 103 | 2026-09-25 | Ruling 103 — #321 and #322 cleared once CI runs; the CI stop is spent minutes, her decision; prepare a CI diet PR to lan |
 | 104 | 2026-09-25 | Ruling 104 — #323 (the CI diet) cleared with (d) folded in; the 1,500 target accepted as unreachable by trimming; the or |
+| 105 | 2026-09-25 | Ruling 105 — #323 cleared as it stands at a762109; ci-scope.js stays on the inputs list; everything waits on the billing |
